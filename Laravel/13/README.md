@@ -1,0 +1,1 @@
+Be careful with the UID and GID environment variables, as they may vary depending on your environment. This image is only intended to set up the development environment. It provides a PHP and Composer container compatible with Laravel 13.
